@@ -1,18 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My First Laravel Project</title>
-</head>
-<header>
-    <h1>Hello There!</h1>
-</header>
-<body>
+<x-layout>
+    <h1>Hi, Welcome!</h1>
+</x-layout>
 
-<a href="/about">
-    About Us
-</a>
 
-</body>
-</html>
+
+

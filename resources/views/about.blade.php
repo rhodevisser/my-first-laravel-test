@@ -1,18 +1,11 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About us</title>
-</head>
-<header>
-    <h1>This is about Us</h1>
-</header>
-<body>
+<x-layout>
 
-<a href="/">
-    Go back
-</a>
+    <h1>This Page is about Us</h1>
 
-</body>
-</html>
+    <p>Not my chair not my problemo.</p>
+
+    <a href="/">
+        Go back
+    </a>
+
+</x-layout>
