@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My First Laravel Project</title>
+    <title>Contact</title>
 </head>
 <header>
-    <h1>Hello There!</h1>
+    <h1>Hello contact Us</h1>
 </header>
 <body>
 
-<a href="/about">
-    About Us
+<a href="/">
+    Go back
 </a>
 
 </body>
